@@ -12,4 +12,4 @@ So oft schon ist es passiert, aber erst jetzt wird mir klar, dass es nicht an ih
 
 Um mich herum geht das Leben seinen geregelten Gang, egal ob mit mir oder ohne mich. Ich bin nur ein Gast in dieser Welt, ein Chamäleon auf der Suche nach seinem wahren Aussehen.
 
-### (c) 2001 Stefan Häfele
+### &copy; 2001 Stefan Häfele
